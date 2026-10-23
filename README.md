@@ -14,14 +14,14 @@ Dieses Repository enthält ausschließlich Datenschutz- und Supportseiten für M
 ## Bereits übernommen
 
 - Anbieter: **MTK Consulting**, Deutschland (Angabe des Betreibers).
+- Öffentliche Kontakt-E-Mail: **kdeux2011@gmail.com**.
+- Eine Postanschrift wird auf Wunsch des Betreibers nicht veröffentlicht. Für einen geschäftlichen Auftritt in Deutschland kann eine Anschrift in einer Anbieterkennzeichnung erforderlich sein; vor der endgültigen Verwendung prüfen.
 - Online-Spielserver: **Render**, Serverregion **Frankfurt, Deutschland** (Angabe des Betreibers).
 
 ## Noch ergänzen
 
 | Platzhalter | Erforderliche Angabe |
 | --- | --- |
-| `{{POSTAL_ADDRESS}}` | Öffentliche Postanschrift |
-| `{{SUPPORT_EMAIL}}` | Öffentliche Kontakt-E-Mail |
 | `{{ONLINE_HOST_AND_LOG_RETENTION}}` | Noch offene technische Protokollierung, Aufbewahrung und gegebenenfalls Übermittlungen bei Render; Anbieter und Frankfurt sind bereits eingetragen |
 | `{{HOSTING_PROVIDER_AND_LOG_RETENTION}}` | GitHub Pages als Anbieter der Informationsseiten, tatsächliche technische Datenverarbeitung und Aufbewahrung laut Anbieter |
 | `{{SUPPORT_RETENTION_POLICY}}` | Tatsächliche Lösch-/Aufbewahrungspraxis für Support-Anfragen |
