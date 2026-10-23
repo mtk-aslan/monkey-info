@@ -2,7 +2,7 @@
 
 Dieses Repository enthält ausschließlich Datenschutz- und Supportseiten für MONKEY. Der App-Quellcode bleibt im separaten privaten Repository.
 
-**Status: Entwurf.** Die HTML-Dateien sind vorbereitet, enthalten aber noch ausdrücklich markierte Platzhalter. Die Seiten noch nicht als fertige Datenschutz-/Supportangaben in App Store Connect verwenden.
+Die Datenschutzerklärung enthält noch die unter „Noch ergänzen“ aufgeführten Platzhalter für Hosting- und Aufbewahrungsangaben.
 
 ## Dateien
 
@@ -28,7 +28,7 @@ Dieses Repository enthält ausschließlich Datenschutz- und Supportseiten für M
 
 Nur Angaben eintragen, die öffentlich sichtbar sein sollen. Keine Passwörter, Tokens, Signierschlüssel oder privaten App-Konfigurationen hier ablegen. GitHub-Commits können frühere Fassungen langfristig sichtbar halten.
 
-Nach Vervollständigung alle `{{…}}`-Platzhalter prüfen, Entwurfshinweise auf allen drei Seiten entfernen und den Datenschutzhinweis mit dem tatsächlichen Betrieb abgleichen. Der Spielserver verarbeitet die Partie im RAM; Render- und GitHub-Protokolle sind davon getrennt. Diese Vorlage ersetzt keine Prüfung der konkreten Betreiberangaben.
+Nach Vervollständigung alle `{{…}}`-Platzhalter prüfen und den Datenschutzhinweis mit dem tatsächlichen Betrieb abgleichen. Der Spielserver verarbeitet die Partie im RAM; Render- und GitHub-Protokolle sind davon getrennt. Diese Vorlage ersetzt keine Prüfung der konkreten Betreiberangaben.
 
 ## GitHub Pages aktivieren
 
@@ -40,6 +40,6 @@ Nach Vervollständigung alle `{{…}}`-Platzhalter prüfen, Entwurfshinweise auf
    - Support: <https://mtk-aslan.github.io/monkey-info/support.html>
    - Startseite: <https://mtk-aslan.github.io/monkey-info/>
 
-Das Hochladen der Dateien aktiviert GitHub Pages nicht automatisch. Solange die Entwürfe unvollständig sind, kann die Pages-Aktivierung bis zur Fertigstellung warten. Der enthaltene `noindex,nofollow`-Hinweis bittet Suchmaschinen, die Entwürfe nicht zu indexieren; er schützt nicht vor öffentlichem Zugriff.
+Das Hochladen der Dateien aktiviert GitHub Pages nicht automatisch. Der enthaltene `noindex,nofollow`-Hinweis bittet Suchmaschinen, die Seiten nicht zu indexieren; er schützt nicht vor öffentlichem Zugriff.
 
 Nach Fertigstellung die Datenschutz- und Support-URL in App Store Connect und in den MONKEY-Releaseangaben hinterlegen. Die eigene Domain und die Render-Konfiguration müssen dafür nicht geändert werden.
